@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80;Turning+Curiosity+Into+Code+%F0%9F%92%BB;Exploring+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Open+To+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=00F7FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hassaansec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
@@ -41,14 +41,16 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-<div align="center">
+</div>
 
 ---
 
 ### 📜 Certifications
 
+<div align="center">
+
 | Certification | Issuer |
-|---|---|
+|:---:|:---:|
 | Introduction to Cybersecurity | Cisco |
 | Introduction to Modern AI | Cisco |
 | Cybersecurity Fundamentals | IBM SkillsBuild |
@@ -56,16 +58,18 @@
 | Introduction to Generative AI | Simplilearn × Google Cloud |
 | Artificial Intelligence for Social Impact | ADBI |
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hassaansec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansec&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=hassaansec&theme=tokyonight&hide_border=true" />
 
 </div>
 
