@@ -1,61 +1,90 @@
 <div align="center">
 
-# Muhammad Hassaan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;AI+Enthusiast;Learning+Python+and+Linux;Learning+Wireshark+and+Nmap;Exploring+Kali+Linux;Building+Skills+in+Git+and+GitHub;Open+to+Internships;Open+to+Collaboration;Open+to+Open+Source;Always+Learning)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=00F7FF&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassaansec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
+![Location](https://img.shields.io/badge/Location-Pakistan-informational?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
-# Muhammad Hassaan
+---
 
-**Student | Cybersecurity & AI Enthusiast**
+### 👨‍💻 About Me
 
-Building practical skills through continuous learning.
+- 🎓 Student focused on **Cybersecurity** and **Artificial Intelligence**
+- 🐍 Comfortable with **Python**, **Linux**, **Git**, **GitHub**, and basic networking concepts
+- 🔍 Currently learning: **Wireshark**, **Nmap**, **Kali Linux**
+- 🛡️ Interested in ethical hacking, security fundamentals, and how AI applies to security
+- 🤝 Open to: **Internships**, **Collaboration**, **Open Source**, **Learning Opportunities**
 
 ---
 
-## About Me
+### 🧰 Tech Stack
 
-- Student focused on Cybersecurity and Artificial Intelligence
-- Comfortable with Python, Linux, Git, GitHub, and basic networking concepts
-- Currently learning: Wireshark, Nmap, Kali Linux
-- Interested in ethical hacking, security fundamentals, and how AI applies to security
+<div align="center">
 
----
+**Languages**
 
-## Certifications
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-- Cisco — Introduction to Cybersecurity
-- Cisco — Introduction to Modern AI
-- IBM SkillsBuild — Cybersecurity Fundamentals
-- Simplilearn — Cybersecurity in Finance
-- Simplilearn × Google Cloud — Introduction to Generative AI
-- ADBI — Artificial Intelligence for Social Impact
+**Tools & Platforms**
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Tech Stack
+**Security (Learning)**
 
-**Languages:** Python
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
-**Tools & Platforms:** Linux, Git, GitHub
-
-**Security (Learning):** Wireshark, Nmap, Kali Linux,Arch Linux
+</div>
 
 ---
 
-## Status
+### 📜 Certifications
 
-Currently learning Cybersecurity and Artificial Intelligence.
-
-Open to: Internships, Collaboration, Open Source, Learning Opportunities
+| Certification | Issuer |
+|---|---|
+| Introduction to Cybersecurity | Cisco |
+| Introduction to Modern AI | Cisco |
+| Cybersecurity Fundamentals | IBM SkillsBuild |
+| Cybersecurity in Finance | Simplilearn |
+| Introduction to Generative AI | Simplilearn × Google Cloud |
+| Artificial Intelligence for Social Impact | ADBI |
 
 ---
 
-## Connect
+### 📊 GitHub Stats
 
-LinkedIn: [linkedin.com/in/hassaansec](https://www.linkedin.com/in/hassaansec)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassaansec&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🟢 Status
+
+Currently learning **Cybersecurity** and **Artificial Intelligence**, and open to internships, collaboration, open-source contributions, and new learning opportunities.
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Hassaan-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
+
+</div>
+
+<div align="center">
+<sub>⭐ Thanks for stopping by — feel free to explore my repos and reach out!</sub>
+</div>
