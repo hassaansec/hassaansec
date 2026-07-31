@@ -1,90 +1,110 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Hassaan&fontSize=60&fontColor=000000&animation=twinkling&desc=Student%20%7C%20Cybersecurity%20%26%20AI%20Enthusiast&descAlignY=60&descSize=20)
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+Cybersecurity+fundamentals;Exploring+Python+%2B+Linux+%2B+Networking;Diving+into+Artificial+Intelligence;Open+to+Internships+%26+Collaboration)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7DD3FC&height=220§ion=header&text=Hassaan&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Student%20%7C%20Cybersecurity%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=7DD3FC&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/hassaansec?color=7DD3FC&style=flat-square&label=Followers)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DD3FC¢er=true&vCenter=true&width=600&lines=Learning+Cybersecurity+fundamentals;Exploring+Python+%2B+Linux+%2B+Networking;Diving+into+Artificial+Intelligence;Open+to+Internships+and+Collaboration"/>
 
----
+<br/>
 
-## Who I Am
+<img src="https://komarev.com/ghpvc/?username=hassaansec&color=7DD3FC&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/hassaansec?color=7DD3FC&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📌 Who I Am
 
 ```ts
-const hassaan = {
-  title: "Student | Cybersecurity and AI Enthusiast",
+interface Profile {
+  readonly title: string;
+  readonly stack: string[];
+  readonly learning: string[];
+  readonly certifications: string[];
+  readonly status: string;
+  readonly openTo: string[];
+}
+
+const hassaan: Profile = {
+  title: "Student | Cybersecurity & AI Enthusiast",
   stack: ["Python", "Linux", "Git", "GitHub", "Basic Networking"],
   learning: ["Wireshark", "Nmap", "Kali Linux"],
   certifications: [
-    "Cisco – Introduction to Cybersecurity",
-    "Cisco – Introduction to Modern AI",
-    "IBM SkillsBuild – Cybersecurity Fundamentals",
-    "Simplilearn – Cybersecurity in Finance",
-    "Simplilearn (w/ Google Cloud) – Introduction to Generative AI",
-    "ADBI – Artificial Intelligence for Social Impact",
+    "Cisco — Introduction to Cybersecurity",
+    "Cisco — Introduction to Modern AI",
+    "IBM SkillsBuild — Cybersecurity Fundamentals",
+    "Simplilearn — Cybersecurity in Finance",
+    "Simplilearn × Google Cloud — Introduction to Generative AI",
+    "ADBI — Artificial Intelligence for Social Impact",
   ],
-  status: "Learning Cybersecurity and Artificial Intelligence",
+  status: "Learning Cybersecurity & Artificial Intelligence",
   openTo: ["Internships", "Collaboration", "Open Source", "Learning Opportunities"],
 };
+
+export default hassaan;
 ```
 
----
+<br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=python&theme=light)
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 **Backend / Infra**
 
-![Skills](https://skillicons.dev/icons?i=linux,git,github&theme=light)
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark"/>
 
-**Networking and Security (Learning)**
+**Networking & Security** <sub>(learning)</sub>
 
-![Skills](https://skillicons.dev/icons?i=wireshark,kali&theme=light)
+<img src="https://skillicons.dev/icons?i=wireshark,kali&theme=dark"/>
 
----
+<br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=7DD3FC&icon_color=7DD3FC)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=7DD3FC)
+<div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=hassaansec&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC)
+<img src="https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=c9d1d9&icon_color=7DD3FC&bg_color=0D1117&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=c9d1d9&bg_color=0D1117&hide_border=false" height="165"/>
 
----
+<img src="https://streak-stats.demolab.com?user=hassaansec&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&background=0D1117"/>
 
-## Trophies
+</div>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hassaansec&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+<br/>
 
----
+## 🏆 Trophies
 
-## Contribution Activity
+<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassaansec&theme=nord&color=7DD3FC&line=7DD3FC&point=7DD3FC)
+<img src="https://github-profile-trophy.vercel.app/?username=hassaansec&theme=nord&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
----
+</div>
 
-## Connect
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/hassaansec)
+## 📈 Contribution Activity
 
----
+<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=120&section=footer&animation=twinkling)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansec&theme=react-dark&color=7DD3FC&line=7DD3FC&point=ffffff&bg_color=0D1117"/>
 
-<!--
-**hassaansec/hassaansec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hassaansec" target="_blank">
+  <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0F172A&height=120§ion=footer&animation=twinkling" width="100%"/>
