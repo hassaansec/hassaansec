@@ -19,7 +19,7 @@
 - 🔍 Currently learning: **Wireshark**, **Nmap**, **Kali Linux**
 - 🛡️ Interested in ethical hacking, security fundamentals, and how AI applies to security
 - 🤝 Open to: **Internships**, **Collaboration**, **Open Source**, **Learning Opportunities**
--  💼 **Cybersecurity Intern** at **Synctechub**
+-  💼 **Cybersecurity Intern** at **Synctecxhub**
 
 ---
 
