@@ -15,11 +15,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 Student focused on **Cybersecurity** and **Artificial Intelligence**
+- 💼 **Cybersecurity Intern** at **Synctecxhub**
 - 🐍 Comfortable with **Python**, **Linux**, **Git**, **GitHub**, and basic networking concepts
 - 🔍 Currently learning: **Wireshark**, **Nmap**, **Kali Linux**
 - 🛡️ Interested in ethical hacking, security fundamentals, and how AI applies to security
 - 🤝 Open to: **Internships**, **Collaboration**, **Open Source**, **Learning Opportunities**
--  💼 **Cybersecurity Intern** at **Synctecxhub**
+
 
 ---
 
@@ -70,7 +71,7 @@
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=hassaansec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassaansec&layout=compact&theme=tokyonight&hide_border=true" />
+
 
 <img src="https://streak-stats.demolab.com/?user=hassaansec&theme=tokyonight&hide_border=true" />
 
@@ -80,7 +81,11 @@
 
 ### 🟢 Status
 
-Currently learning **Cybersecurity** and **Artificial Intelligence**, and open to internships, collaboration, open-source contributions, and new learning opportunities.
+🔐 Currently working as a *Cybersecurity Intern at SyntecxHub*, gaining hands-on experience through practical, security-focused tasks and real-world projects.
+
+✅ Successfully completed my *Week 1 internship tasks*, strengthening my practical understanding of cybersecurity concepts, tools, and problem-solving.
+
+📚 Continuing to learn, build, and improve my skills while progressing through the internship and exploring new areas of *Cybersecurity & Ethical Hacking*.
 
 ---
 
