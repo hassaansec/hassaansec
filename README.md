@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=Muhammad%20Hassaan&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="./profile-banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80;Turning+Curiosity+Into+Code+%F0%9F%92%BB;Exploring+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Open+To+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80;Turning+Curiosity+Into+Code+%F0%9F%92%BB;Exploring+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Open+To+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=00F7FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=A78BFA&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hassaansec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
 ![Location](https://img.shields.io/badge/Location-Pakistan-informational?style=flat-square&logo=googlemaps&logoColor=white)
 
