@@ -1,49 +1,50 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:6d28d9,100:c084fc&height=220&section=header&text=Muhammad%20Hassaan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20to%20think%20like%20an%20attacker,%20build%20like%20a%20defender&descAlignY=58&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Muhammad+Hassaan;Cybersecurity+%26+AI+Enthusiast;Always+Learning+%F0%9F%9A%80;Turning+Curiosity+Into+Code+%F0%9F%92%BB;Exploring+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;Open+To+Internships+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Enthusiast;Student+%7C+Building+Practical+Skills;Currently+%40+Syntecxhub+Internship;Open+to+Internships+%2F+Collaboration+%2F+OSS" alt="Typing SVG" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hassaansec&color=A78BFA&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hassaansec-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
-![Location](https://img.shields.io/badge/Location-Pakistan-informational?style=flat-square&logo=googlemaps&logoColor=white)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hassaansec&label=Profile%20Views&color=7dd3fc&style=for-the-badge" />
+<img src="https://img.shields.io/badge/LinkedIn-hassaansec-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" />
+<img src="https://img.shields.io/badge/Location-Pakistan-7dd3fc?style=for-the-badge&logo=googlemaps&logoColor=black" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👤 About Me
 
 - 🎓 Student focused on **Cybersecurity** and **Artificial Intelligence**
-- 💼 **Cybersecurity Intern** at **Synctecxhub**
-- 🐍 Comfortable with **Python**, **Linux**, **Git**, **GitHub**, and basic networking concepts
-- 🔍 Currently learning: **Wireshark**, **Nmap**, **Kali Linux**
+- 💼 **Cybersecurity Intern** at **Syntecxhub**
+- 🐧 Comfortable with **Python, Linux, Git, GitHub**, and basic networking
+- 🔍 Currently learning: **Wireshark, Nmap, Kali Linux**
 - 🛡️ Interested in ethical hacking, security fundamentals, and how AI applies to security
-- 🤝 Open to: **Internships**, **Collaboration**, **Open Source**, **Learning Opportunities**
-
+- 🤝 Open to: **Internships, Collaboration, Open Source, Learning Opportunities**
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 Tech Stack
 
 <div align="center">
 
 **Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 **Tools & Platforms**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" />
 
 **Security (Learning)**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Wireshark-7dd3fc?style=for-the-badge&logo=wireshark&logoColor=black" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 
 </div>
 
@@ -61,6 +62,7 @@
 | Cybersecurity in Finance | Simplilearn |
 | Introduction to Generative AI | Simplilearn × Google Cloud |
 | Artificial Intelligence for Social Impact | ADBI |
+| What Is Generative AI? (exam verified) | LinkedIn Learning |
 
 </div>
 
@@ -70,33 +72,42 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=hassaansec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://streak-stats.demolab.com/?user=hassaansec&theme=dark&hide_border=true&background=0D1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 
-
-<img src="https://streak-stats.demolab.com/?user=hassaansec&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansec&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%" />
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<!-- Auto-generates once you add the GitHub Action below -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hassaansec/hassaansec/output/github-contribution-grid-snake.svg" width="90%" />
+</div>
+
+> To enable the snake animation: create `.github/workflows/snake.yml` in this repo — instructions below.
 
 ---
 
 ### 🟢 Status
 
-🔐 Currently working as a *Cybersecurity Intern at SyntecxHub*, gaining hands-on experience through practical, security-focused tasks and real-world projects.
-
-✅ Successfully completed my *Week 1 internship tasks*, strengthening my practical understanding of cybersecurity concepts, tools, and problem-solving.
-
-📚 Continuing to learn, build, and improve my skills while progressing through the internship and exploring new areas of *Cybersecurity & Ethical Hacking*.
+- 💼 Currently working as a *Cybersecurity Intern at Syntecxhub*, gaining hands-on experience through practical, security-focused tasks
+- 📚 Continuing to learn, build, and improve skills while exploring **Cybersecurity & Ethical Hacking**
 
 ---
 
+<div align="center">
+
 ### 📫 Connect With Me
 
-<div align="center">
+<a href="https://linkedin.com/in/hassaansec"><img src="https://img.shields.io/badge/LinkedIn-Muhammad_Hassaan-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://hassaansec.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/-Muhammad%20Hassaan-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hassaansec)
+⭐ **Thanks for stopping by — feel free to explore my repos and reach out!**
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0a0a0a&height=120&section=footer" />
 
-<div align="center">
-<sub>⭐ Thanks for stopping by — feel free to explore my repos and reach out!</sub>
 </div>
