@@ -72,7 +72,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassaansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" />
+
 <img height="165" src="https://streak-stats.demolab.com/?user=hassaansec&theme=dark&hide_border=true&background=0D1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassaansec&theme=react-dark&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="90%" />
@@ -87,8 +87,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/hassaansec/hassaansec/output/github-contribution-grid-snake.svg" width="90%" />
 </div>
-
-> To enable the snake animation: create `.github/workflows/snake.yml` in this repo — instructions below.
 
 ---
 
@@ -108,6 +106,6 @@
 
 ⭐ **Thanks for stopping by — feel free to explore my repos and reach out!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0a0a0a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2ec,100:6d28d9&height=120&section=footer" />
 
 </div>
